@@ -1,4 +1,4 @@
-# README 
+# README
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
 README generator
@@ -12,10 +12,10 @@ README generator
 6. [Questions](#questions)
 
 ## Installation
-Intall through command line
+Install through command line
 
 ## Usage
-install it
+To generate a README
 
 ## License
 This application is licensed under mit
@@ -26,9 +26,9 @@ License link: (https://opensource.org/licenses/MIT)
 
 
 ## Test
-??
+By running the application in the command line
 
 ## Questions
-Check out my work at http://github.com/ss
+Check out my work at http://github.com/alexlofton
 <br>
-Email: <email>
+Email: alexlofton91@hotmail.com
