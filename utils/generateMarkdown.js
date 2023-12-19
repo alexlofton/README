@@ -73,7 +73,7 @@ ${data.test}
 ## Questions
 Check out my work at http://github.com/${data.github}
 <br>
-Email: <email>
+Email: ${data.email}
 `;
 }
 
