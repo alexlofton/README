@@ -32,6 +32,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'contributing',
+        message: 'who or what sources contributed to this application',
+    },
+    {
+        type: 'input',
         name: 'test',
         message: 'how do you test this application?',
     },
