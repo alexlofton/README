@@ -1,7 +1,7 @@
 # README Generator
-![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-A simple app to help developers create a README file
+A simple app to help developers create a README file easily
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -12,21 +12,21 @@ A simple app to help developers create a README file
 6. [Questions](#questions)
 
 ## Installation
-Install through the command line using Inquirer
+Install using Inquirer through the command line
 
 ## Usage
-To generate a README file easily
+For developers to create README files
 
 ## License
-This application is licensed under mozilla
+This application is licensed under mit
 <br>
-License link: (https://opensource.org/licenses/MPL-2.0)
+License link: (https://opensource.org/licenses/MIT)
 
 ## Contributing 
 My tutor, Robby
 
 ## Test
-By running node index.js in the command line
+Test in the command line using node index.js
 
 ## Questions
 Check out my work at http://github.com/alexlofton
