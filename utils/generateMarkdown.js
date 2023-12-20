@@ -65,7 +65,7 @@ This application is licensed under ${data.license}
 License link: ${renderLicenseLink(data.license)}
 
 ## Contributing 
-
+${data.contributing}
 
 ## Test
 ${data.test}
