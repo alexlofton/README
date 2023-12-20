@@ -1,7 +1,7 @@
-# d
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# README Generator
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-d
+A simple app to help developers create a README file
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -12,23 +12,23 @@ d
 6. [Questions](#questions)
 
 ## Installation
-
+Install using the Inquirer package in the command line
 
 ## Usage
-d
+To create README files quickly and easily
 
 ## License
-This application is licensed under apache
+This application is licensed under mit
 <br>
-License link: (https://opensource.org/licenses/Apache-2.0)
+License link: (https://opensource.org/licenses/MIT)
 
 ## Contributing 
-d
+My tutor, Robby
 
 ## Test
-d
+By running node index.js in the command line
 
 ## Questions
-Check out my work at http://github.com/d
+Check out my work at http://github.com/alexlofton
 <br>
-Email: d
+Email: alexlofton91@hotmail.com
